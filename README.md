@@ -39,3 +39,10 @@ sudo git clone https://github.com/fredrare/lightdm-weeb-minimal.git weeb-minimal
 ```
 5. Enable the theme in your `/etc/lightdm/web-greeter.yml` by going to the `greeter` section, finding the `theme` variable and replacing its value with `weeb-minimal`.
 6. Edit `/etc/lightdm/lightdm.conf`, find the `greeter_session` variable and replace its value with `web-greeter`.
+
+## TODO
+- [ ] Session selector
+- [ ] Colour selector
+- [ ] Donate: `0x4b42000631e03fee79cedcb8f82627034541b2fa`
+
+Feel free to open a PR!
