@@ -1,0 +1,6 @@
+[theme]
+name=lightdm-weeb-minimal
+description=A web greeter theme for weebs.
+engine=lightdm-web-greeter
+url=index.html
+session=awesome
