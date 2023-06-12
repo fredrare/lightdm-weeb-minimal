@@ -112,6 +112,7 @@ body {
 #name {
   text-align: center;
   appearance: none;
+  height: 1rem;
   border: 0;
   background: none;
   pointer-events: none;

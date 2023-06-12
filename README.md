@@ -13,10 +13,11 @@ A lightdm greeter based on [lightdm-gab-gradient](https://github.com/GabrielTenm
 - Built-in fonts
 
 ## Screenshot
-![Screenshot](static/img/demo.png "Demo screenshot")
+![Screenshot](static/img/demo.png "Live demo screenshot")
 
-## Installation guide:
-1. Install  `lightdm` and `web-greeter`.
+## Installation guide
+Specific commands for [Arch Linux](https://archlinux.org), although you can do pretty much the same for any distro.
+1. Install  [`lightdm`](https://github.com/canonical/lightdm) and [`web-greeter`](https://github.com/JezerM/web-greeter).
 ```sh
 # Remember to update your system, pls
 sudo pacman -Syu
@@ -43,6 +44,6 @@ sudo git clone https://github.com/fredrare/lightdm-weeb-minimal.git weeb-minimal
 ## TODO
 - [ ] Session selector
 - [ ] Colour selector
-- [ ] Donate: `0x4b42000631e03fee79cedcb8f82627034541b2fa`
+- [ ] **Donate: `0x4b42000631e03fee79cedcb8f82627034541b2fa`**
 
 Feel free to open a PR!
