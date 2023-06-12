@@ -1,6 +1,6 @@
 # lightdm-weeb-minimal
 ## Summary
-A lightdm greeter based on lightdm-gab-gradient, customized a bit for your minimal weeb needs. See the [live demo](https://fredrare.github.io/lightdm-weeb-minimal).
+A lightdm greeter based on [lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient), customized a bit for your minimal weeb needs. See the [live demo](https://fredrare.github.io/lightdm-weeb-minimal).
 
 ## Features
 - Apple-styled shadows and corners
