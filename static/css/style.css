@@ -112,7 +112,7 @@ body {
 #name {
   text-align: center;
   appearance: none;
-  height: 1rem;
+  height: min-content;
   border: 0;
   background: none;
   pointer-events: none;
@@ -187,6 +187,10 @@ body {
 #login-password::selection {
   color: transparent;
   background: var(--cyan-strong-transparent);
+}
+
+#login-password::placeholder {
+  color: transparent;
 }
 
 #login-password::placeholder,
