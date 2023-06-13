@@ -5,18 +5,18 @@ A lightdm greeter based on [lightdm-gab-gradient](https://github.com/GabrielTenm
 ## Features
 - Apple-styled shadows and corners
 - Fractal noise-based aesthetic pastel background
-- Date in japanese
-- Time with seconds
+- Date in japanese - [Yuji Syuku font](https://fonts.google.com/specimen/Yuji+Syuku)
+- Time with seconds - [Yuji Syuku font](https://fonts.google.com/specimen/Yuji+Syuku)
 - Multi-user
-- Anti-shoulder-surfing ultra-secure password field
+- Anti-shoulder-surfing ultra-secure password field - [IBM Plex Mono font](https://fonts.google.com/specimen/IBM+Plex+Mono)
 - Keyboard-navigation support
-- Built-in fonts
+- Built-in fonts: [Lato](https://fonts.google.com/specimen/Lato), [Yuji Syuku](https://fonts.google.com/specimen/Yuji+Syuku) and [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono)
 
 ## Screenshot
-![Screenshot](static/img/demo.png "Live demo screenshot")
+![Screenshot](demo.png "Live demo screenshot")
 
 ## Installation guide
-Specific commands for [Arch Linux](https://archlinux.org), although you can do pretty much the same for any distro.
+These are commands for [Arch Linux](https://archlinux.org), although you can do pretty much the same for any distro.
 1. Install  [`lightdm`](https://github.com/canonical/lightdm) and [`web-greeter`](https://github.com/JezerM/web-greeter).
 ```sh
 # Remember to update your system, pls

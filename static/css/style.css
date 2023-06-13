@@ -193,7 +193,6 @@ body {
   color: transparent;
 }
 
-#login-password::placeholder,
 #password-mask::placeholder {
   font-family: var(--body-font);
 }
